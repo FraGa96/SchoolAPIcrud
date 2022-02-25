@@ -52,6 +52,8 @@ For Application:
 - The user is capable to remove an Application
 - The user is capable to get all the applications for a specific applicant
 
+Create a react app to handle this CRUD functionalities, should be responsive
+
 ### Extra
 - Create a new entity Teacher
     - A Grade can have 1 Teacher, a Teacher can teach only 1 grade at a time (Relation 1 to 1)
