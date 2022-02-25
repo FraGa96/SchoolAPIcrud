@@ -29,7 +29,7 @@ Project Dependencies
 - Application Layer
 
 
-## Definiton of Done
+## Acceptance Criteria
 For Grades:
 - The user is capable to create a Grade
 - The user is capable to get all Grades
@@ -49,6 +49,7 @@ For Application:
 - The user is capable to create an Application
 - The user is capable to get a specific Application
 - The user is capable to update an Application
+- The user is capable to remove an Application
 - The user is capable to get all the applications for a specific applicant
 
 ### Extra
